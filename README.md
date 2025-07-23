@@ -2,10 +2,12 @@
 ![018a6f6c99b7366db18b3e7f580e67b8](https://github.com/user-attachments/assets/07275d2c-c0d3-42e7-8cef-6e527affe054)
 [![ugomoji_1753253472802 (1)](https://github.com/user-attachments/assets/5784674b-cd97-47c7-9862-51eef16c4783)](https://linktr.ee/xyz987164)
 
-
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring Data JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
