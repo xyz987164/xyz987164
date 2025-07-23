@@ -1,6 +1,7 @@
 
 ![018a6f6c99b7366db18b3e7f580e67b8](https://github.com/user-attachments/assets/07275d2c-c0d3-42e7-8cef-6e527affe054)
-[![ugomoji_1753253472802 (1)](https://github.com/user-attachments/assets/dcd6af03-a66c-4878-83b1-23763c46a9b3)](https://linktr.ee/xyz987164)
+[![ugomoji_1753253472802 (2)](https://github.com/user-attachments/assets/5c7ffb61-83e2-40a1-b8fc-bb562c22f055)](https://linktr.ee/xyz987164)
+
 
 <!--
 **xyz987164/xyz987164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
