@@ -1,4 +1,6 @@
 ## Hi there 👋
+![lpe7vmozYOiY2plApkhzytBsaocQ-BMB_-xpNy-HBA5FgXnqQIrBH4s9oliOeOTTdGcGCYtUQAEC5gHQquIWhA](https://github.com/user-attachments/assets/f3299c00-f077-4c0d-8873-fc84fe1508ff)
+
 
 <!--
 **xyz987164/xyz987164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
